@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# PCE Musical
+This is a simple test site for a school musical.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx3.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--pcemusical--royfielding.hlx3.page/
+- Live: https://main--pcemusical--royfielding.hlx.live/
 
 ## Installation
 
@@ -23,4 +23,4 @@ npm tst
 1. Add the [helix-bot](https://github.com/apps/helix-bot) to the repository
 1. Install the [Helix CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/helix-cli`
 1. Start Helix Pages Proxy: `hlx up` (opens your browser at `http://localhost:3000`)
-1. Open the `{repo}` directory in your favorite IDE and start coding :)
+1. Open the `pcemusical` directory in your favorite IDE and start coding :)
